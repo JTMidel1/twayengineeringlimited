@@ -7,7 +7,7 @@ const projects = [
   ["Commercial Buildings", "Modern Commercial Facility", "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&w=1200&q=80"],
   ["Residential Projects", "Residential Estate Infrastructure", "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&w=1200&q=80"],
   ["Infrastructure Works", "Drainage and Site Development", "https://images.unsplash.com/photo-1581094794329-c8112a89af12?auto=format&w=1200&q=80"],
-  ["LPG Installations", "Commercial LPG Supply System", "https://images.unsplash.com/photo-1516937941344-00b4e0337589?auto=format&w=1200&q=80"]
+  ["LPG ", "Commercial LPG Supply System", "https://images.unsplash.com/photo-1516937941344-00b4e0337589?auto=format&w=1200&q=80"]
 ];
 
 export function Projects() {
